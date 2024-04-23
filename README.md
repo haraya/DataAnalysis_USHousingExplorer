@@ -13,10 +13,10 @@ Visualize trends using Matplotlib's powerful charting capabilities.
 By the end of this journey, you'll gain insights into the US housing market and discover the exciting potential of data exploration with Python!
 
 # Here's what you'll need:
-Python (version 3.x recommended)
-Jupyter Notebook
-Pandas library
-Matplotlib library
+- Python (version 3.x recommended)
+- Jupyter Notebook
+- Pandas library
+- Matplotlib library
 
 # Author
 - Name: Hernán Araya
