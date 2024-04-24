@@ -21,3 +21,4 @@ By the end of this journey, you'll gain insights into the US housing market and 
 # Author
 - Name: Hernán Araya
 - Email: hernan.araya96@outlook.com
+- Jupyter URL: https://jupyter.org/try-jupyter/lab/index.html?path=Hernan%2FSold_Houses.ipynb
