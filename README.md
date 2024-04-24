@@ -13,10 +13,10 @@ Visualize trends using Matplotlib's powerful charting capabilities.
 By the end of this journey, you'll gain insights into the US housing market and discover the exciting potential of data exploration with Python!
 
 # Methodology: 
-- Data Collection: A publicly available dataset containing information on US home sales will be used, including variables such as sale date, price, location, property type, etc.
+- Data Collection: A publicly available dataset containing information on US home sales will be used, including variables such as sale date, frequency, period, etc.
 - Data Cleaning and Preparation: The data will be cleaned and prepared for analysis, removing duplicate values, inconsistencies, and errors.
 - Exploratory Data Analysis: Exploratory data analysis techniques will be used to understand the distribution of variables, identify patterns, and uncover general trends.
-- Data Visualization: Visualization libraries like Matplotlib and Seaborn will be used to create graphs and charts that effectively represent the analysis results.
+- Data Visualization: Visualization libraries like Matplotlib will be used to create graphs and charts that effectively represent the analysis results.
 
 # Here's what you'll need:
 - Python (version 3.x recommended)
